@@ -2,7 +2,7 @@
 
 
 :root {
-  --serif:serif;
+  --serif: serif;
   --sans-serif:sans-serif;
   --comfortaa: "Comfortaa", cursive;
   --dynapuff: "DynaPuff", cursive;
@@ -12,11 +12,11 @@
   --lato: 'Lato', sans-serif;
   --montserrat: 'Montserrat', sans-serif;;
   --roboto: 'Roboto', sans-serif;
+  
 }
 
 body {
   margin: 0;
-  font-family: var(--roboto);
 }
 
 html {
